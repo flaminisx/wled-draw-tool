@@ -1,0 +1,23 @@
+.cell {
+  width: 100%;
+  height: 100%;
+}
+
+.wrapper {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  height: 40px;
+}
+
+.cover {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.popover {
+  position: absolute;
+  z-index: 2;
+}
